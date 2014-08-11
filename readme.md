@@ -21,3 +21,6 @@ Printed in PLA on an Ultimaker 1, 0.1mm layer height, 20% infill density.
 Other settings and different materials can be used for increased strength.  
 Requires 2 M3 nuts and 2 M3x10 screws per connector.
 Hex socket cap screws are recommended for easier assembly in tight spaces.
+
+##License
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
